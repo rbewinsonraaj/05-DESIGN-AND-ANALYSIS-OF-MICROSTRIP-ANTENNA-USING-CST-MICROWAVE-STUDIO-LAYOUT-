@@ -14,7 +14,7 @@ Height of the substrate=1.6 mmZ0=50 ohm,ZL=123 ohm Zo’=√(50*123)= 78.42 ohm
 Length of the quarter wave line = 18mmLamda g =72 , Lamda not=128
 Bandwidth calculation from s-parameter in quater wave line=1.33 GhzFrequency=2.4 Ghzc, Ε eff=3.024
 
-**	Design of microstrip line terminated with the desired load**
+**Design of microstrip line terminated with the desired load**
 
 
 <img width="621" height="185" alt="image" src="https://github.com/user-attachments/assets/908adc01-814f-450c-b969-7e1342681af4" />
@@ -41,7 +41,3 @@ Bandwidth calculation from s-parameter in quater wave line=1.33 GhzFrequency=2.4
 **Conclusion:**
 
 From this experiment we got the bandwidth value of 1.33 Ghz with a impedance matching of 78.42 ohm and also got the width of quarter wave line of 1.138 mm.
-
-
-
-
